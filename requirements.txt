@@ -1,6 +1,7 @@
-streamlit
-streamlit_option_menu
-echo "streamlit_option_menu" >> requirements.txt
+# Buka file requirements.txt dan pastikan isinya hanya
+# berisi nama-nama paket seperti di bawah ini:
+echo -e "streamlit\nstreamlit_option_menu" > requirements.txt
+# Commit dan push perubahan ke GitHub
 git add requirements.txt
-git commit -m "Add streamlit_option_menu to requirements.txt"
+git commit -m "Fix requirements.txt syntax"
 git push
