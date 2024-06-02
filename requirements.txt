@@ -1,3 +1,5 @@
+notepad requirements.txt
+nano requirements.txt
 streamlit
 streamlit_option_menu
 # Buka file requirements.txt dan pastikan isinya hanya nama paket
