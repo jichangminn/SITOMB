@@ -2,7 +2,6 @@ import streamlit as st
 import sqlite3
 from datetime import date
 import pandas as pd
-from streamlit_option_menu import option_menu
 from PIL import Image
 import locale
 
