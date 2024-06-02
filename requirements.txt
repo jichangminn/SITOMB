@@ -1,0 +1,6 @@
+streamlit
+streamlit_option_menu
+echo "streamlit_option_menu" >> requirements.txt
+git add requirements.txt
+git commit -m "Add streamlit_option_menu to requirements.txt"
+git push
