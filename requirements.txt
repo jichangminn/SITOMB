@@ -1,3 +1,5 @@
+streamlit
+streamlit_option_menu
 # Buka file requirements.txt dan pastikan isinya hanya
 # berisi nama-nama paket seperti di bawah ini:
 echo -e "streamlit\nstreamlit_option_menu" > requirements.txt
